@@ -1,4 +1,3 @@
-<p align="center"><img src="icon.png"/></p>
 
 # Starter Kit City Builder
 
